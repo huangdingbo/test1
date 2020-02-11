@@ -1,8 +1,11 @@
 {
     "name": "huang/test1",
     "description": "test1 package",
-    "type": "l",
-    "license": "apache",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    },
     "authors": [
         {
             "name": "huang",
