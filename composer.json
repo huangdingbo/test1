@@ -1,5 +1,5 @@
 {
-    "name": "huang/test1",
+    "name": "huangdingbo/test1",
     "description": "test1 package",
     "type": "library",
     "license": "MIT",
@@ -8,7 +8,7 @@
     },
     "authors": [
         {
-            "name": "huang",
+            "name": "huangdingbo",
             "email": "378969398@qq.com"
         }
     ],
